@@ -280,7 +280,7 @@ cd Facemask_Detection
 Navigate to the backend directory:
 
 ```bash
-cd backend
+cd facemask_Detection
 ```
 
 Create a virtual environment:
