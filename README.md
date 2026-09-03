@@ -264,7 +264,7 @@ Face 3 → Mask     → 91.73%
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Face-Mask-Detection-System.git
+git clone https://github.com/Ruthu543/Facemask-DetectionSystem.git
 ```
 
 Navigate into the project:
