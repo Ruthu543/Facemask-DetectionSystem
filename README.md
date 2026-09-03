@@ -270,7 +270,7 @@ git clone https://github.com/Ruthu543/Facemask-DetectionSystem.git
 Navigate into the project:
 
 ```bash
-cd Face-Mask-Detection-System
+cd Facemask_Detection
 ```
 
 ---
